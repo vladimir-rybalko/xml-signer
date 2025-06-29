@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <title>Пример документа</title>
+    <author>Иван Иванов</author>
+    <content>
+        Это пример XML-документа для проверки работы механизма подписи и проверки целостности.
+    </content>
+    <date>2025-04-05</date>
+</document>
